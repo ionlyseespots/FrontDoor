@@ -1,7 +1,8 @@
-FrontDoor.app.controller("FrontDoorCtrl", function($scope){
+frontDoor.app.controller("FrontDoorCtrl", function($scope){
+
+    $scope.howdy = "Howdy!";
 
 
-        $scope.howdy = "Howdy!";
 
 
 });

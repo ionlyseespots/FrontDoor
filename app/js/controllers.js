@@ -1,11 +1,4 @@
 'use strict';
+frontDoor.app.controller('MyController', function($scope) {
 
-/* Controllers */
-
-angular.module('myApp.controllers', []).
-  controller('MyCtrl1', [function() {
-
-  }])
-  .controller('MyCtrl2', [function() {
-
-  }]);
+});
